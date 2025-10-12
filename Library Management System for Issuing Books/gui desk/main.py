@@ -7,7 +7,7 @@ from test import (
 )
 
 customtkinter.set_appearance_mode("System")
-customtkinter.set_default_color_theme("red")
+customtkinter.set_default_color_theme("blue")
 
 app = customtkinter.CTk()
 app.geometry("850x600")
@@ -127,3 +127,4 @@ footer_label = customtkinter.CTkLabel(
 footer_label.pack(side="bottom", pady=8)
 
 app.mainloop()
+
