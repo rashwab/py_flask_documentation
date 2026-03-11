@@ -1,0 +1,7 @@
+Summary Table
+Name	Role	Age	Tech	Key Need
+Maya Patel	Customer	28	⭐⭐⭐⭐⭐	Mobile ordering, traceability
+Maggie O'Brien	Customer	71	⭐⭐	Simple interface, large text
+David Okafor	Producer	58	⭐⭐	Quick stock updates, RAG indicators
+Chloe Reynolds	Producer	34	⭐⭐⭐⭐	Sales analytics, bulk edits
+Sarah Chen	Admin	42	⭐⭐⭐⭐	Platform oversight, user management
